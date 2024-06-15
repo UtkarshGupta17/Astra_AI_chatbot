@@ -1,0 +1,1 @@
+Astra is an AI chatbot packed with exciting features, including voice search and the ability to read answers aloud. It can answer all of your questions, making it a powerful and interactive tool for any inquiry.
