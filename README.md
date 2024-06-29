@@ -2,7 +2,7 @@
 # *Here's how the Astra chatbot works:*
 
 1. **User Input**:
-   - Users can input messages either as text through a text input field or as voice messages using voice recognition capabilities (utilizing libraries like voice-to-text ReactJS library command to install- npm i react-speech-recognition / link -<href>https://www.npmjs.com/package/react-speech-recognition</href>.
+   - Users can input messages either as text through a text input field or as voice messages using voice recognition capabilities (utilizing libraries like voice-to-text ReactJS library command to install> npm i react-speech-recognition / link -<href>https://www.npmjs.com/package/react-speech-recognition</href>.
 
 2. **Sending Messages to Gemini API**:
    - Upon submission, the application sends the user's message to the Google Gemini API for processing. The API then analyzes the input and generates a response based on its natural language understanding capabilities.
@@ -12,7 +12,7 @@
    - The application displays this response in a designated section of the UI, such as the main chat window or result div.
 
 4. **Text-to-Speech Functionality**:
-   - As an additional feature, the application uses browser-based text-to-speech functionality (ReactJS library command> npm i react-speech / link - <href>https://www.npmjs.com/package/react-speech</href>) to audibly read the response from the Gemini API. This feature enhances user interaction by providing both visual and auditory feedback.
+   - As an additional feature, the application uses browser-based text-to-speech functionality (ReactJS library command ti install> npm i react-speech / link - <href>https://www.npmjs.com/package/react-speech</href>) to audibly read the response from the Gemini API. This feature enhances user interaction by providing both visual and auditory feedback.
 
 5. **User Interaction**:
    - Users can continue interacting with the chatbot by providing further input. New messages are sent to the Gemini API, responses are received, and displayed in the UI, maintaining a conversational flow.
