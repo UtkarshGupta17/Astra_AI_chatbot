@@ -24,7 +24,7 @@
    - The web application is accessible over the internet, allowing users to open and interact with it from their browsers on any device.
 
 8. **Storing Past Chats**:
-   - The application includes a feature to store past chat sessions. This involves saving chat histories locally in the browser.
+   - A simple past chat save feature until the next refresh, using the current state saved from useState when a new state is updated.
 
 This setup creates an engaging AI chatbot experience within a React application, leveraging the powerful capabilities of the Google Gemini API while ensuring accessibility, usability, and continuity of interaction for users.
 
